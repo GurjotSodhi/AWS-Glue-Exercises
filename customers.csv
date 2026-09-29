@@ -1,0 +1,84 @@
+CUSTOMERID,CUSTOMERNAME,EMAIL,CITY,COUNTRY,TERRITORY,CONTACTFIRSTNAME,CONTACTLASTNAME
+1,Land of Toys Inc.,gladys.rim@rim.org,NYC,USA,NA,James,Butt
+2,Reims Collectables,yuki_whobrey@aol.com,Reims,France,EMEA,Josephine,Darakjy
+3,Lyon Souveniers,fletcher.flosi@yahoo.com,Paris,France,EMEA,Art,Venere
+4,Toys4GrownUps.com,bette_nicka@cox.net,Pasadena,USA,NA,Lenna,Paprocki
+5,Corporate Gift Ideas Co.,vinouye@aol.com,San Francisco,USA,NA,Donette,Foller
+6,Technics Stores Inc.,gladys.rim@rim.org,Burlingame,USA,NA,Simona,Morasca
+7,Daedalus Designs Imports,yuki_whobrey@aol.com,Lille,France,EMEA,Mitsue,Tollner
+8,Herkku Gifts,fletcher.flosi@yahoo.com,Bergen,Norway,EMEA,Leota,Dilliard
+9,Mini Wheels Co.,bette_nicka@cox.net,San Francisco,USA,NA,Sage,Wieser
+10,Auto Canal Petit,vinouye@aol.com,Paris,France,EMEA,Kris,Marrier
+12,Vitachrome Inc.,yuki_whobrey@aol.com,NYC,USA,NA,Abel,Maclead
+13,Tekni Collectables Inc.,fletcher.flosi@yahoo.com,Newark,USA,NA,Kiley,Caldarera
+14,Gift Depot Inc.,bette_nicka@cox.net,Bridgewater,USA,NA,Graciela,Ruta
+15,La Rochelle Gifts,vinouye@aol.com,Nantes,France,EMEA,Cammy,Albares
+16,Marta's Replicas Co.,gladys.rim@rim.org,Cambridge,USA,NA,Mattie,Poquette
+17,Toys of Finland Co.,yuki_whobrey@aol.com,Helsinki,Finland,EMEA,Meaghan,Garufi
+18,Baane Mini Imports,fletcher.flosi@yahoo.com,Stavern,Norway,EMEA,Gladys,Rim
+19,Diecast Classics Inc.,bette_nicka@cox.net,Allentown,USA,NA,Yuki,Whobrey
+20,Land of Toys Inc.,vinouye@aol.com,NYC,USA,NA,Fletcher,Flosi
+21,Salzburg Collectables,bette_nicka@cox.net,Salzburg,Austria,EMEA,Bette,Nicka
+23,La Rochelle Gifts,emerson.bowley@bowley.org,Nantes,France,EMEA,Willard,Kolmetz
+24,FunGiftIdeas.com,bmalet@yahoo.com,New Bedford,USA,NA,Maryann,Royster
+25,UK Collectables Ltd.,bbolognia@yahoo.com,Liverpool,UK,EMEA,Alisha,Slusarski
+26,Euro Shopping Channel,lnestle@hotmail.com,Madrid,Spain,EMEA,Allene,Iturbide
+27,Baane Mini Imports,sabra@uyetake.org,Stavern,Norway,EMEA,Chanel,Caudy
+28,Volvo Model Replicas Co,mmastella@mastella.com,Lule,Sweden,EMEA,Ezekiel,Chui
+29,Corrida Auto Replicas Ltd,wkusko@yahoo.com,Madrid,Spain,EMEA,Willow,Kusko
+30,Technics Stores Inc.,emerson.bowley@bowley.org,Burlingame,USA,NA,Bernardo,Figeroa
+32,Classic Legends Inc.,bbolognia@yahoo.com,NYC,USA,NA,Francine,Vocelka
+34,Classic Gift Ideas Inc,sabra@uyetake.org,Philadelphia,USA,NA,Albina,Glick
+35,Saveley & Henriot Co.,mmastella@mastella.com,Lyon,France,EMEA,Alishia,Sergi
+36,Canadian Gift Exchange Network,emerson.bowley@bowley.org,Vancouver,Canada,NA,Solange,Shinko
+37,West Coast Collectables Co.,bmalet@yahoo.com,Burbank,USA,NA,Jose,Stockham
+38,Cambridge Collectables Co.,bbolognia@yahoo.com,Cambridge,USA,NA,Rozella,Ostrosky
+39,Super Scale Inc.,lnestle@hotmail.com,New Haven,USA,NA,Valentine,Gillian
+42,Amica Models & Co.,doldroyd@aol.com,Torino,Italy,EMEA,Dyan,Oldroyd
+43,Scandinavian Gift Ideas,roxane@hotmail.com,Boras,Sweden,EMEA,Roxane,Campain
+44,Auto Assoc. & Cie.,lperin@perin.org,Versailles,France,EMEA,Lavera,Perin
+45,Mini Gifts Distributors Ltd.,erick.ferencz@aol.com,San Rafael,USA,NA,Erick,Ferencz
+46,Online Diecast Creations Co.,emerson.bowley@bowley.org,Nashua,USA,NA,Fatima,Saylors
+47,Mini Wheels Co.,bmalet@yahoo.com,San Francisco,USA,NA,Jina,Briddick
+49,Mini Gifts Distributors Ltd.,lnestle@hotmail.com,San Rafael,USA,NA,Emerson,Bowley
+50,Collectables For Less Inc.,sabra@uyetake.org,Brickhaven,USA,NA,Blair,Malet
+51,Corporate Gift Ideas Co.,mmastella@mastella.com,San Francisco,USA,NA,Brock,Bolognia
+53,Quebec Home Shopping Network,sabra@uyetake.org,Montreal,Canada,NA,Sabra,Uyetake
+54,Euro Shopping Channel,mmastella@mastella.com,Madrid,Spain,EMEA,Marjory,Mastella
+55,Land of Toys Inc.,lnestle@hotmail.com,NYC,USA,NA,Karl,Klonowski
+57,Lyon Souveniers,mmastella@mastella.com,Paris,France,EMEA,Amber,Monarrez
+58,Toys4GrownUps.com,lnestle@hotmail.com,Pasadena,USA,NA,Shenika,Seewald
+59,Corporate Gift Ideas Co.,sabra@uyetake.org,San Francisco,USA,NA,Delmy,Ahle
+60,Technics Stores Inc.,mmastella@mastella.com,Burlingame,USA,NA,Deeanna,Juhas
+61,Daedalus Designs Imports,bpugh@aol.com,Lille,France,EMEA,Blondell,Pugh
+62,Herkku Gifts,lnestle@hotmail.com,Bergen,Norway,EMEA,Jamal,Vanausdal
+63,Mini Wheels Co.,sabra@uyetake.org,San Francisco,USA,NA,Cecily,Hollack
+66,Motor Mint Distributors Inc.,sabra@uyetake.org,Philadelphia,USA,NA,Tawna,Buvens
+67,Tekni Collectables Inc.,mmastella@mastella.com,Newark,USA,NA,Penney,Weight
+68,Gift Depot Inc.,elly_morocco@gmail.com,Bridgewater,USA,NA,Elly,Morocco
+69,La Rochelle Gifts,lnestle@hotmail.com,Nantes,France,EMEA,Ilene,Eroman
+70,Marta's Replicas Co.,sabra@uyetake.org,Cambridge,USA,NA,Vallie,Mondella
+71,Atelier graphique,mmastella@mastella.com,Nantes,France,EMEA,Kallie,Blackwood
+72,Mini Classics,lnestle@hotmail.com,White Plains,USA,NA,Johnetta,Abdallah
+73,Diecast Classics Inc.,sabra@uyetake.org,Allentown,USA,NA,Bobbye,Rhym
+74,Land of Toys Inc.,mmastella@mastella.com,NYC,USA,NA,Micaela,Rhymes
+78,FunGiftIdeas.com,mmastella@mastella.com,New Bedford,USA,NA,Delisa,Crupi
+79,Auto Canal Petit,lnestle@hotmail.com,Paris,France,EMEA,Viva,Toelkes
+80,Euro Shopping Channel,sabra@uyetake.org,Madrid,Spain,EMEA,Elza,Lipke
+81,Land of Toys Inc.,mmastella@mastella.com,NYC,USA,NA,Devorah,Chickering
+83,Lyon Souveniers,ahoneywell@honeywell.com,Paris,France,EMEA,Arlette,Honeywell
+84,Toys4GrownUps.com,dominque.dickerson@dickerson.org,Pasadena,USA,NA,Dominque,Dickerson
+85,Corporate Gift Ideas Co.,lnestle@hotmail.com,San Francisco,USA,NA,Lettie,Isenhower
+86,Technics Stores Inc.,sabra@uyetake.org,Burlingame,USA,NA,Myra,Munns
+87,Daedalus Designs Imports,mmastella@mastella.com,Lille,France,EMEA,Stephaine,Barfield
+88,Herkku Gifts,lnestle@hotmail.com,Bergen,Norway,EMEA,Lai,Gato
+89,Mini Wheels Co.,sabra@uyetake.org,San Francisco,USA,NA,Stephen,Emigh
+92,Vitachrome Inc.,cory.gibes@gmail.com,NYC,USA,NA,Cory,Gibes
+93,Tekni Collectables Inc.,lnestle@hotmail.com,Newark,USA,NA,Danica,Bruschke
+94,Gift Depot Inc.,sabra@uyetake.org,Bridgewater,USA,NA,Wilda,Giguere
+95,La Rochelle Gifts,mmastella@mastella.com,Nantes,France,EMEA,Elvera,Benimadho
+96,Marta's Replicas Co.,lnestle@hotmail.com,Cambridge,USA,NA,Carma,Vanheusen
+97,Toys of Finland Co.,sabra@uyetake.org,Helsinki,Finland,EMEA,Malinda,Hochard
+98,Mini Classics,mmastella@mastella.com,White Plains,USA,NA,Natalie,Fern
+99,Diecast Classics Inc.,lisha@centini.org,Allentown,USA,NA,Lisha,Centini
+100,Land of Toys Inc.,arlene_klusman@gmail.com,NYC,USA,NA,Arlene,Klusman
