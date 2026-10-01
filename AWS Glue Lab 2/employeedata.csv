@@ -1,0 +1,16 @@
+employee_id,name,email,hire_date,salary,department
+E001,john smith,john.smith@company.com,2022-03-15,65000,SALES
+E002,MARIA GARCIA,maria.garcia@company.com,2021-06-10,72000,hr
+E003,James Johnson,james@company.com,2023/01/20,68500,Sales
+E004,sarah williams,,2022-11-05,71000,MARKETING
+E005,michael  brown,michael.brown@company.com,2020-09-30,,IT
+E006,Jennifer Lee,jennifer.lee@company.com,02-14-2023,69000,finance
+E007,DAVID  CHEN,david.chen@company.com,2021/12/08,67000,SALES
+E008,lisa anderson,lisa@company.com,04-25-2023,70000,HR
+E009,Robert Taylor,Robert.Taylor@company.com,2022-07-12,66000,it
+E010,susan davis,susan.davis@company.com,2023-13-01,73000,Marketing
+E011,jOhN pEtEr,john.peter@company.com,15/03/2022,,sales
+E012,ANGELA MARTINEZ,angela.martinez@company.com,2024/02/10,74000,FINANCE
+E013,thomas moore,thomas.moore@company.com,,71000,hr
+E014,PRiya  KUMAR,priya.kumar@company.com,01-15-2023,69500,Marketing
+E015,christopher brown,,2021-08-22,72500,IT
