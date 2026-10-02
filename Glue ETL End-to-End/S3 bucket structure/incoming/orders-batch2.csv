@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product_name,category,quantity,unit_price,sales_region,channel
+ORD-1251,2025-04-12,CUST-005,Standing Desk,Furniture,3,349.00,North,retail
+ORD-1252,2025-05-10,CUST-003,Noise-Cancel Headset,Electronics,1,129.00,North,retail
+ORD-1253,2025-03-03,CUST-036,Notebook 5-Pack,Office Supplies,2,12.49,West,online
+ORD-1254,2025-02-27,CUST-004,Noise-Cancel Headset,Electronics,2,109.65,West,online
+ORD-1255,2025-05-23,CUST-019,Desk Lamp,Home Office,1,18.75,West,online
+ORD-1256,2025-05-27,CUST-036,Webcam 1080p,Electronics,2,56.99,South,online
+ORD-1257,2025-04-06,CUST-036,Noise-Cancel Headset,Electronics,4,129.00,North,partner
+ORD-1258,2025-05-08,CUST-028,Wireless Mouse,Electronics,4,21.24,East,retail
+ORD-1259,2025-04-03,CUST-016,Noise-Cancel Headset,Electronics,8,122.55,South,partner
+ORD-1260,2025-05-28,CUST-034,Desk Lamp,Home Office,2,17.81,West,retail
+ORD-1261,2025-06-05,CUST-008,Gel Pen 12-Pack,Office Supplies,5,8.99,West,online
+ORD-1262,2025-05-06,CUST-003,Standing Desk,Furniture,3,314.10,North,partner
+ORD-1263,2025-03-29,CUST-039,Noise-Cancel Headset,Electronics,6,122.55,West,partner
+ORD-1264,2025-01-24,CUST-031,Gel Pen 12-Pack,Office Supplies,2,8.54,North,online
+ORD-1265,2025-03-14,CUST-057,Ergonomic Chair,Furniture,8,179.10,East,online
+ORD-1266,2025-02-13,CUST-008,Gel Pen 12-Pack,Office Supplies,6,7.64,West,online
+ORD-1267,2025-02-03,CUST-026,Desk Lamp,Home Office,5,18.75,West,retail
+ORD-1268,2025-04-25,CUST-036,Mechanical Keyboard,Electronics,3,71.99,East,online
+ORD-1269,2025-06-30,CUST-023,Notebook 5-Pack,Office Supplies,5,11.24,West,online
+ORD-1270,2025-02-15,CUST-015,USB-C Hub,Electronics,2,34.50,South,online
+ORD-1271,2025-03-09,CUST-001,Gel Pen 12-Pack,Office Supplies,3,8.54,South,retail
+ORD-1272,2025-06-06,CUST-021,Webcam 1080p,Electronics,6,50.99,South,partner
+ORD-1273,2025-04-27,CUST-026,Webcam 1080p,Electronics,1,50.99,West,retail
+ORD-1274,2025-05-04,CUST-004,Notebook 5-Pack,Office Supplies,2,11.24,South,online
+ORD-1275,2025-02-11,CUST-022,Desk Lamp,Home Office,8,18.75,North,online
+ORD-1276,2025-05-18,CUST-024,Wireless Mouse,Electronics,3,24.99,North,online
+ORD-1277,2025-02-08,CUST-023,Desk Lamp,Home Office,7,17.81,East,retail
+ORD-1278,2025-05-05,CUST-031,Mechanical Keyboard,Electronics,2,71.99,West,retail
+ORD-1279,2025-01-27,CUST-048,Mechanical Keyboard,Electronics,3,75.99,East,retail
+ORD-1280,2025-02-22,CUST-024,USB-C Hub,Electronics,1,29.32,South,partner
+ORD-1281,2025-05-16,CUST-042,Webcam 1080p,Electronics,1,56.99,North,partner
+ORD-1282,2025-02-12,CUST-050,Ergonomic Chair,Furniture,6,189.05,South,partner
+ORD-1283,2025-06-12,CUST-040,Webcam 1080p,Electronics,6,59.99,South,online
+ORD-1284,2025-02-21,CUST-032,Notebook 5-Pack,Office Supplies,4,10.62,East,partner
+ORD-1285,2025-03-13,CUST-017,Wireless Mouse,Electronics,1,22.49,South,partner
+ORD-1286,2025-04-25,CUST-024,Noise-Cancel Headset,Electronics,6,122.55,North,online
+ORD-1287,2025-05-01,CUST-022,Mechanical Keyboard,Electronics,4,79.99,South,retail
+ORD-1288,2025-05-03,CUST-052,Noise-Cancel Headset,Electronics,1,122.55,North,partner
+ORD-1289,2025-02-21,CUST-057,Mechanical Keyboard,Electronics,7,71.99,South,retail
+ORD-1290,2025-04-12,CUST-026,Standing Desk,Furniture,2,314.10,North,partner
+ORD-1291,2025-02-02,CUST-010,USB-C Hub,Electronics,3,34.50,West,partner
+ORD-1292,2025-06-18,CUST-010,USB-C Hub,Electronics,8,32.77,South,online
+ORD-1293,2025-05-15,CUST-028,Wireless Mouse,Electronics,2,24.99,South,online
+ORD-1294,2025-02-24,CUST-033,Wireless Mouse,Electronics,5,23.74,South,partner
+ORD-1295,2025-05-20,CUST-054,Standing Desk,Furniture,5,314.10,South,online
+ORD-1296,2025-06-19,CUST-053,Standing Desk,Furniture,8,296.65,West,partner
+ORD-1297,2025-05-15,CUST-002,USB-C Hub,Electronics,3,29.32,West,online
+ORD-1298,2025-02-08,CUST-010,Noise-Cancel Headset,Electronics,1,129.00,West,partner
+ORD-1299,2025-03-25,CUST-034,Mechanical Keyboard,Electronics,1,67.99,West,online
+ORD-1300,2025-03-05,CUST-018,Webcam 1080p,Electronics,1,59.99,North,online
